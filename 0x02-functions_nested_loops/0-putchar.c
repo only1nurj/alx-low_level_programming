@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - print putchar
- * Description: A program that prints _putchar
+ * main - print "putchar" followed by new line
+ *
  * Return: Always 0
  */
 int main(void)
